@@ -1,1 +1,7 @@
-<svg id="add" xmlns="http://www.w3.org/2000/svg" width="133" height="137" viewBox="0 0 133 137"><defs><style>.cls-1{fill:#2465b2;}.cls-2{fill:#1b1464;}</style></defs><title>add</title><g id="add-2" data-name="add"><path class="cls-1" d="M55.57,144V102.94H79.43V144ZM89.43,92.94V68.06H129V92.94ZM6,92.94V68.06H45.57V92.94ZM55.57,58.06V17H79.43V58.06Z" transform="translate(-1 -12)"/><path class="cls-2" d="M74.43,22V53.06H60.57V22H74.43M124,73.06V87.94H94.43V73.06H124m-83.43,0V87.94H11V73.06H40.57m33.86,34.88V139H60.57V107.94H74.43M84.43,12H50.57V63.06H84.43V12ZM134,63.06H84.43V97.94H134V63.06Zm-83.43,0H1V97.94H50.57V63.06ZM84.43,97.94H50.57V149H84.43V97.94Z" transform="translate(-1 -12)"/></g></svg>
+<svg id="add" xmlns="http://www.w3.org/2000/svg" width="133" height="137" viewBox="0 0 133 137"><defs><style>.cls-1{fill:#1b1464;transition:1s;}.cls-2{fill:#1b1464;}#add:hover .cls-1{fill:#FFF;}
+	@media screen and (max-width: 50px) {
+  		.cls-1 {
+    		.cls-1{fill:#2465b2;}
+  		}
+  	}
+  	</style></defs><title>add</title><g id="add-2" data-name="add"><path class="cls-1" d="M55.57,144V102.94H79.43V144ZM89.43,92.94V68.06H129V92.94ZM6,92.94V68.06H45.57V92.94ZM55.57,58.06V17H79.43V58.06Z" transform="translate(-1 -12)"/><path class="cls-2" d="M74.43,22V53.06H60.57V22H74.43M124,73.06V87.94H94.43V73.06H124m-83.43,0V87.94H11V73.06H40.57m33.86,34.88V139H60.57V107.94H74.43M84.43,12H50.57V63.06H84.43V12ZM134,63.06H84.43V97.94H134V63.06Zm-83.43,0H1V97.94H50.57V63.06ZM84.43,97.94H50.57V149H84.43V97.94Z" transform="translate(-1 -12)"/></g></svg>

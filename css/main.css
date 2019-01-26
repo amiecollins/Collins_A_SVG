@@ -2,24 +2,17 @@
 
 .container {
 	display: inline-block;
-	width: 900px;
+	width: 100%;
 	padding: 20px;
 	margin: 30px 100px 30px 100px;
 	background-color: #669984;
 }
 
-.row div { 
-	width: 100px;
-	height: 100px;
+.row .icon { 
+	width: 20%;
 	display: block;
-	transition: all 0.2s ease;
-	margin-top: 10px;
 }
 
-.row div:hover {
-	margin-bottom: 10px;
-	margin-top: 0px;
-}
 
 h1 {
 	font-family: 'Nova Mono', Courier New, monospace;
@@ -34,7 +27,7 @@ p {
 }
 
 .row {
-	width: 800px;
+	width: 100%;
 	margin: 0 auto;
 	display: flex;
 	flex-direction: row;
@@ -52,4 +45,27 @@ p {
 
 .top *:hover {
 	padding-left: 10px;
+}
+
+
+.isanicon {
+	width:50%;
+	height:50%;
+	display: block;
+	margin: 0 auto;
+	transition: all 0.2s ease;
+	margin-top: 10px;
+}
+.isanicon:hover {
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+.info {
+	font-family: 'Nova Mono', Courier New, monospace;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px;
+	background-color: #FFF;
+	margin: 30px;
 }
